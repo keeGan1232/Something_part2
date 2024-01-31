@@ -1,0 +1,9 @@
+C:\Users\Гость.B406-07.002\Desktop\kursach_Evstifeev\kursach_Evstifeev\bin\Debug\kursach_Evstifeev.exe.config
+C:\Users\Гость.B406-07.002\Desktop\kursach_Evstifeev\kursach_Evstifeev\bin\Debug\kursach_Evstifeev.exe
+C:\Users\Гость.B406-07.002\Desktop\kursach_Evstifeev\kursach_Evstifeev\bin\Debug\kursach_Evstifeev.pdb
+C:\Users\Гость.B406-07.002\Desktop\kursach_Evstifeev\kursach_Evstifeev\obj\Debug\kursach_Evstifeev.csprojAssemblyReference.cache
+C:\Users\Гость.B406-07.002\Desktop\kursach_Evstifeev\kursach_Evstifeev\obj\Debug\kursach_Evstifeev.Form1.resources
+C:\Users\Гость.B406-07.002\Desktop\kursach_Evstifeev\kursach_Evstifeev\obj\Debug\kursach_Evstifeev.Properties.Resources.resources
+C:\Users\Гость.B406-07.002\Desktop\kursach_Evstifeev\kursach_Evstifeev\obj\Debug\kursach_Evstifeev.csproj.GenerateResource.cache
+C:\Users\Гость.B406-07.002\Desktop\kursach_Evstifeev\kursach_Evstifeev\obj\Debug\kursach_Evstifeev.exe
+C:\Users\Гость.B406-07.002\Desktop\kursach_Evstifeev\kursach_Evstifeev\obj\Debug\kursach_Evstifeev.pdb
